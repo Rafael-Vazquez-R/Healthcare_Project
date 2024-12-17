@@ -66,3 +66,9 @@ Question 6: Which patient demographics (such as age, location, insurance type, e
 Question 7: How do our financial performance metrics (e.g., profit margin, cost per procedure, payer mix) compare to industry benchmarks and competitors? To evaluate the organization's performance relative to the market, identifying areas for improvement and potential competitive advantages.
 
 Question 8: What are the trends in patient readmission rates across different medical procedures? To identify which medical procedures are associated with higher readmission rates within 30 days of discharge.
+
+* Healthcare Project - Dashboard
+
+Dashboard is created in Power BI, emphasizes profit, revenue, costs, and claims for the years 2022, 2023, and 2024. The insurance providers act as button filters for all the graphs.
+
+In the first graph, the profit per procedure is represented, with tooltips showing the profit margin and ROI. The second graph displays the total number of claims by year, along with the approved claims. The last two graphs are time series plots: the first shows revenue and costs for the years 2022, 2023, and 2024, while the second focuses on the year 2024, broken down by month
